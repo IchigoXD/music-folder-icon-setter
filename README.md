@@ -4,7 +4,7 @@ Automatically set album cover images as folder icons for your music collection d
 ![screenshot](ScreenshotMusic.png)
 ## Features
 - Recursively scans music folders
-- Automatically finds album cover images
+- Automatically finds album cover images (images must be named like '''cover.jpg''')
 - Sets folder icons based on found images
 - Supports multiple image formats (JPG, PNG)
 - Detailed logging of all operations
