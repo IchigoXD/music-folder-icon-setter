@@ -1,7 +1,7 @@
 # Music Folder Icon Setter
 
 Automatically set album cover images as folder icons for your music collection download from spotify or Soggfy on Windows.
-
+![screenshot](ScreenshotMusic.png)
 ## Features
 - Recursively scans music folders
 - Automatically finds album cover images
